@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          !!!!!!!!!!!!!11Welcome to Amplify and React Project !!!!!!!!!!!!!!
+          !!!!!!!!!!!!! Hai  Welcome to Amplify and React Project !!!!!!!!!!!!!!
         </p>
         <a
           className="App-link"
